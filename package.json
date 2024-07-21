@@ -12,6 +12,7 @@
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
+"playwright":"1.45.2",
 "gemini-ai" : "latest",
 "simple-git":"3.22.0",
 "crypto-digest-sync": "^1.0.0",
